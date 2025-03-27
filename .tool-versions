@@ -1,0 +1,4 @@
+python    3.12.9
+poetry    2.1.1
+uv        0.6.8
+nodejs    22.14.0
